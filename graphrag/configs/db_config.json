@@ -1,0 +1,10 @@
+{
+  "host": "tg-c202cabc-a086-45ba-a41d-3ef78f5a73f7.tg-3452941248.i.tgcloud.io",
+  "username": "tigergraph",
+  "password": "Password@123",
+  "graph": "MyGraph",
+  "restppPort": 443,
+  "gsPort": 14240,
+  "gsqlPort": 14240,
+  "ssl": true
+}
